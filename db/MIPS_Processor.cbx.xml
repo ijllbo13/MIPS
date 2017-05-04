@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="MIPS_Processor">
+		<CBX_INST_ENTRY INSTANCE_NAME="|MIPS_Processor|DataMemory:RAMProgramMemory|altsyncram:ram_rtl_0" CBX_FILE_NAME="altsyncram_u3d1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|MIPS_Processor|ProgramMemory:ROMProgramMemory|altsyncram:rom_rtl_0" CBX_FILE_NAME="altsyncram_q581.tdf"/>
+	</PROJECT>
+</LOG_ROOT>

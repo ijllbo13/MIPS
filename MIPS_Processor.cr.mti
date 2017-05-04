@@ -1,0 +1,287 @@
+C:/MIPSPROJECT/MIPS_Processor/Complete/ALU.v {1 {vlog -work work C:/MIPSPROJECT/MIPS_Processor/Complete/ALU.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} C:/MIPSPROJECT/MIPS_Processor/Complete/PipelineRegister.v {1 {vlog -work work C:/MIPSPROJECT/MIPS_Processor/Complete/PipelineRegister.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module PipelineRegister
+
+Top level modules:
+	PipelineRegister
+
+} {} {}} C:/MIPSPROJECT/MIPS_Processor/Complete/ShiftLeft2.v {1 {vlog -work work C:/MIPSPROJECT/MIPS_Processor/Complete/ShiftLeft2.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ShiftLeft2
+
+Top level modules:
+	ShiftLeft2
+
+} {} {}} C:/MIPSPROJECT/MIPS_Processor/Complete/DataMemory.v {1 {vlog -work work C:/MIPSPROJECT/MIPS_Processor/Complete/DataMemory.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module DataMemory
+
+Top level modules:
+	DataMemory
+
+} {} {}} C:/MIPSPROJECT/MIPS_Processor/Complete/ALUControl.v {1 {vlog -work work C:/MIPSPROJECT/MIPS_Processor/Complete/ALUControl.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ALUControl
+
+Top level modules:
+	ALUControl
+
+} {} {}} C:/MIPSPROJECT/MIPS_Processor/Complete/MIPS_Processor_TB.v {1 {vlog -work work C:/MIPSPROJECT/MIPS_Processor/Complete/MIPS_Processor_TB.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MIPS_Processor_TB
+
+Top level modules:
+	MIPS_Processor_TB
+
+} {} {}} {C:/Users/Andres Hernandez/Downloads/BasicMIPSProcessor/Complete/DecoderRegisterFile.v} {1 {vlog -work work {C:/Users/Andres Hernandez/Downloads/BasicMIPSProcessor/Complete/DecoderRegisterFile.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module DecoderRegisterFile
+
+Top level modules:
+	DecoderRegisterFile
+
+} {} {}} {C:/Users/Andres Hernandez/Downloads/BasicMIPSProcessor/Complete/ANDGate.v} {1 {vlog -work work {C:/Users/Andres Hernandez/Downloads/BasicMIPSProcessor/Complete/ANDGate.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ANDGate
+
+Top level modules:
+	ANDGate
+
+} {} {}} {C:/Users/Andres Hernandez/Downloads/BasicMIPSProcessor/Complete/Definitions.v} {1 {vlog -work work {C:/Users/Andres Hernandez/Downloads/BasicMIPSProcessor/Complete/Definitions.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+
+} {} {}} {C:/Users/Andres Hernandez/Downloads/BasicMIPSProcessor/Complete/Register.v} {1 {vlog -work work {C:/Users/Andres Hernandez/Downloads/BasicMIPSProcessor/Complete/Register.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Register
+
+Top level modules:
+	Register
+
+} {} {}} {C:/Users/Andres Hernandez/Downloads/BasicMIPSProcessor/Complete/RegisterFile.v} {1 {vlog -work work {C:/Users/Andres Hernandez/Downloads/BasicMIPSProcessor/Complete/RegisterFile.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module RegisterFile
+
+Top level modules:
+	RegisterFile
+
+} {} {}} C:/MIPSPROJECT/MIPS_Processor/Complete/ShiftLeft2Jump.v {1 {vlog -work work C:/MIPSPROJECT/MIPS_Processor/Complete/ShiftLeft2Jump.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ShiftLeft2Jump
+
+Top level modules:
+	ShiftLeft2Jump
+
+} {} {}} C:/MIPSPROJECT/MIPS_Processor/Complete/PC_Register.v {1 {vlog -work work C:/MIPSPROJECT/MIPS_Processor/Complete/PC_Register.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module PC_Register
+
+Top level modules:
+	PC_Register
+
+} {} {}} C:/MIPSPROJECT/MIPS_Processor/Complete/Adder32bits.v {1 {vlog -work work C:/MIPSPROJECT/MIPS_Processor/Complete/Adder32bits.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Adder32bits
+
+Top level modules:
+	Adder32bits
+
+} {} {}} C:/MIPSPROJECT/MIPS_Processor/Complete/RegisterSP.v {1 {vlog -work work C:/MIPSPROJECT/MIPS_Processor/Complete/RegisterSP.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module RegisterSP
+
+Top level modules:
+	RegisterSP
+
+} {} {}} {C:/Users/Andres Hernandez/Downloads/BasicMIPSProcessor/Complete/MUXRegisterFile.v} {1 {vlog -work work {C:/Users/Andres Hernandez/Downloads/BasicMIPSProcessor/Complete/MUXRegisterFile.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MUXRegisterFile
+
+Top level modules:
+	MUXRegisterFile
+
+} {} {}} C:/MIPSPROJECT/MIPS_Processor/Complete/NANDGate.v {1 {vlog -work work C:/MIPSPROJECT/MIPS_Processor/Complete/NANDGate.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module NANDGate
+
+Top level modules:
+	NANDGate
+
+} {} {}} C:/MIPSPROJECT/MIPS_Processor/Complete/Multiplexer3to1.v {1 {vlog -work work C:/MIPSPROJECT/MIPS_Processor/Complete/Multiplexer3to1.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Multiplexer3to1
+
+Top level modules:
+	Multiplexer3to1
+
+} {} {}} {C:/Users/Andres Hernandez/Downloads/BasicMIPSProcessor/Complete/MIPS_Processor.v} {1 {vlog -work work {C:/Users/Andres Hernandez/Downloads/BasicMIPSProcessor/Complete/MIPS_Processor.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MIPS_Processor
+
+Top level modules:
+	MIPS_Processor
+
+} {} {}} C:/MIPSPROJECT/MIPS_Processor/Complete/DecoderRegisterFile.v {1 {vlog -work work C:/MIPSPROJECT/MIPS_Processor/Complete/DecoderRegisterFile.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module DecoderRegisterFile
+
+Top level modules:
+	DecoderRegisterFile
+
+} {} {}} {C:/Users/Andres Hernandez/Downloads/BasicMIPSProcessor/Complete/Multiplexer2to1.v} {1 {vlog -work work {C:/Users/Andres Hernandez/Downloads/BasicMIPSProcessor/Complete/Multiplexer2to1.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Multiplexer2to1
+
+Top level modules:
+	Multiplexer2to1
+
+} {} {}} {C:/Users/Andres Hernandez/Downloads/BasicMIPSProcessor/Complete/ProgramMemory.v} {1 {vlog -work work {C:/Users/Andres Hernandez/Downloads/BasicMIPSProcessor/Complete/ProgramMemory.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ProgramMemory
+
+Top level modules:
+	ProgramMemory
+
+} {} {}} {C:/Users/Andres Hernandez/Downloads/BasicMIPSProcessor/Complete/Control.v} {1 {vlog -work work {C:/Users/Andres Hernandez/Downloads/BasicMIPSProcessor/Complete/Control.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Control
+
+Top level modules:
+	Control
+
+} {} {}} {C:/Users/Andres Hernandez/Downloads/BasicMIPSProcessor/Complete/SignExtend.v} {1 {vlog -work work {C:/Users/Andres Hernandez/Downloads/BasicMIPSProcessor/Complete/SignExtend.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module SignExtend
+
+Top level modules:
+	SignExtend
+
+} {} {}} C:/MIPSPROJECT/MIPS_Processor/Complete/RegisterGP.v {1 {vlog -work work C:/MIPSPROJECT/MIPS_Processor/Complete/RegisterGP.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module RegisterGP
+
+Top level modules:
+	RegisterGP
+
+} {} {}} C:/MIPSPROJECT/MIPS_Processor/Complete/Definitions.v {1 {vlog -work work C:/MIPSPROJECT/MIPS_Processor/Complete/Definitions.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+
+} {} {}} C:/MIPSPROJECT/MIPS_Processor/Complete/ANDGate.v {1 {vlog -work work C:/MIPSPROJECT/MIPS_Processor/Complete/ANDGate.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ANDGate
+
+Top level modules:
+	ANDGate
+
+} {} {}} {C:/Users/Andres Hernandez/Downloads/BasicMIPSProcessor/Complete/ALU.v} {1 {vlog -work work {C:/Users/Andres Hernandez/Downloads/BasicMIPSProcessor/Complete/ALU.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} C:/MIPSPROJECT/MIPS_Processor/Complete/RegisterFile.v {1 {vlog -work work C:/MIPSPROJECT/MIPS_Processor/Complete/RegisterFile.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module RegisterFile
+
+Top level modules:
+	RegisterFile
+
+} {} {}} C:/MIPSPROJECT/MIPS_Processor/Complete/Register.v {1 {vlog -work work C:/MIPSPROJECT/MIPS_Processor/Complete/Register.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Register
+
+Top level modules:
+	Register
+
+} {} {}} {C:/Users/Andres Hernandez/Downloads/BasicMIPSProcessor/Complete/ShiftLeft2.v} {1 {vlog -work work {C:/Users/Andres Hernandez/Downloads/BasicMIPSProcessor/Complete/ShiftLeft2.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ShiftLeft2
+
+Top level modules:
+	ShiftLeft2
+
+} {} {}} {C:/Users/Andres Hernandez/Downloads/BasicMIPSProcessor/Complete/ALUControl.v} {1 {vlog -work work {C:/Users/Andres Hernandez/Downloads/BasicMIPSProcessor/Complete/ALUControl.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ALUControl
+
+Top level modules:
+	ALUControl
+
+} {} {}} {C:/Users/Andres Hernandez/Downloads/BasicMIPSProcessor/Complete/DataMemory.v} {1 {vlog -work work {C:/Users/Andres Hernandez/Downloads/BasicMIPSProcessor/Complete/DataMemory.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module DataMemory
+
+Top level modules:
+	DataMemory
+
+} {} {}} C:/MIPSPROJECT/MIPS_Processor/Complete/Concatenation.v {1 {vlog -work work C:/MIPSPROJECT/MIPS_Processor/Complete/Concatenation.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Concatenation
+
+Top level modules:
+	Concatenation
+
+} {} {}} C:/MIPSPROJECT/MIPS_Processor/Complete/MUXRegisterFile.v {1 {vlog -work work C:/MIPSPROJECT/MIPS_Processor/Complete/MUXRegisterFile.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MUXRegisterFile
+
+Top level modules:
+	MUXRegisterFile
+
+} {} {}} {C:/Users/Andres Hernandez/Downloads/BasicMIPSProcessor/Complete/MIPS_Processor_TB.v} {1 {vlog -work work {C:/Users/Andres Hernandez/Downloads/BasicMIPSProcessor/Complete/MIPS_Processor_TB.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MIPS_Processor_TB
+
+Top level modules:
+	MIPS_Processor_TB
+
+} {} {}} C:/MIPSPROJECT/MIPS_Processor/Complete/SignExtend.v {1 {vlog -work work C:/MIPSPROJECT/MIPS_Processor/Complete/SignExtend.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module SignExtend
+
+Top level modules:
+	SignExtend
+
+} {} {}} C:/MIPSPROJECT/MIPS_Processor/Complete/ProgramMemory.v {1 {vlog -work work C:/MIPSPROJECT/MIPS_Processor/Complete/ProgramMemory.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ProgramMemory
+
+Top level modules:
+	ProgramMemory
+
+} {} {}} C:/MIPSPROJECT/MIPS_Processor/Complete/Multiplexer2to1.v {1 {vlog -work work C:/MIPSPROJECT/MIPS_Processor/Complete/Multiplexer2to1.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Multiplexer2to1
+
+Top level modules:
+	Multiplexer2to1
+
+} {} {}} C:/MIPSPROJECT/MIPS_Processor/Complete/Control.v {1 {vlog -work work C:/MIPSPROJECT/MIPS_Processor/Complete/Control.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Control
+
+Top level modules:
+	Control
+
+} {} {}} {C:/Users/Andres Hernandez/Downloads/BasicMIPSProcessor/Complete/PC_Register.v} {1 {vlog -work work {C:/Users/Andres Hernandez/Downloads/BasicMIPSProcessor/Complete/PC_Register.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module PC_Register
+
+Top level modules:
+	PC_Register
+
+} {} {}} {C:/Users/Andres Hernandez/Downloads/BasicMIPSProcessor/Complete/Adder32bits.v} {1 {vlog -work work {C:/Users/Andres Hernandez/Downloads/BasicMIPSProcessor/Complete/Adder32bits.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Adder32bits
+
+Top level modules:
+	Adder32bits
+
+} {} {}}
